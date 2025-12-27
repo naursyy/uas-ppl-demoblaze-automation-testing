@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Demoblaze Automation Test Suite">
+    <test name="All Test Cases">
+        <classes>
+            <class name="com.praktikum.automation.testing.TC_PURCH_001_CompleteFlowTest"/>
+            <class name="com.praktikum.automation.testing.TC_CONT_001_ContactValidationTest"/>
+            <class name="com.praktikum.automation.testing.TC_AUTH_001_InvalidLoginTest"/>
+            <class name="com.praktikum.automation.testing.TC_SESS_001_CartPersistenceTest"/>
+            <class name="com.praktikum.automation.testing.TC_VALID_001_EmptyCartTest"/>
+        </classes>
+    </test>
+</suite>
