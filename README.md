@@ -1,12 +1,9 @@
 # DEMOBLAZE AUTOMATION TESTING  
 UAS PENGUJIAN PERANGKAT LUNAK (PPL) 2025
 
-Proyek ini merupakan implementasi **Automation Testing** pada website **Demoblaze E-Commerce**  
-yang dikembangkan sebagai bagian dari **Ujian Akhir Semester (UAS)** mata kuliah  
-**Pengujian Perangkat Lunak (PPL) Tahun 2025**.
+Proyek ini merupakan implementasi **Automation Testing** pada website **Demoblaze E-Commerce** yang dikembangkan sebagai bagian dari **Ujian Akhir Semester (UAS)** mata kuliah **Pengujian Perangkat Lunak (PPL) Tahun 2025**.
 
-Pengujian dilakukan untuk memverifikasi fungsi utama sistem menggunakan  
-**Selenium WebDriver** dengan pendekatan **Automation Testing berbasis Page Object Model (POM)**.
+Pengujian dilakukan untuk memverifikasi fungsi utama sistem menggunakan **Selenium WebDriver** dengan pendekatan **Automation Testing berbasis Page Object Model (POM)**.
 
 ## Tujuan Pengujian
 - Memastikan fitur utama aplikasi berjalan sesuai kebutuhan
@@ -96,7 +93,4 @@ testng.xml
 - Automation testing membantu meningkatkan konsistensi dan efisiensi pengujian.
 
 ### Author
-Naura Yaffa Kamila
-Program Studi Rekayasa Keamanan Siber
-Politeknik Negeri Cilacap
-UAS Pengujian Perangkat Lunak – 2025
+Naura Yaffa Kamila - Program Studi Rekayasa Keamanan Siber - Politeknik Negeri Cilacap - UAS Pengujian Perangkat Lunak 2025
