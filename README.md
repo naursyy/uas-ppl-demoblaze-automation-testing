@@ -9,14 +9,12 @@ Pengujian dilakukan untuk memverifikasi fungsi utama sistem menggunakan
 **Selenium WebDriver** dengan pendekatan **Automation Testing berbasis Page Object Model (POM)**.
 
 ## Tujuan Pengujian
-
 - Memastikan fitur utama aplikasi berjalan sesuai kebutuhan
 - Mengidentifikasi bug pada proses bisnis e-commerce
 - Meningkatkan efisiensi pengujian melalui automation testing
 - Membandingkan hasil manual testing dan automation testing
 
 ## Fitur yang Diuji
-
 - Login dengan kredensial tidak valid
 - Validasi form Contact
 - Proses pembelian produk (Complete Purchase Flow)
@@ -83,10 +81,9 @@ testng.xml
 5. TC_VALID_001 - Validasi checkout dengan cart kosong
 
 ### Hasil Pengujian
-Total Test Case : 5
-Passed : 3
-Failed : 2
-Status Aplikasi : Not Ready for Production
+- Total Test Case: 5
+- Passed: 3
+- Failed: 2
 
 ### Bug ditemukan pada:
 - Validasi form Contact tanpa input nama
